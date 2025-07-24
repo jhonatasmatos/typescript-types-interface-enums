@@ -1,0 +1,24 @@
+{
+  "name": "mini-order-manager",
+  "version": "1.0.0",
+  "description": "> A simple Node.js + TypeScript CLI script to practice Types, Interfaces, and Enums in one lesson.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonatasmatos/mini-order-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonatasmatos/mini-order-manager/issues"
+  },
+  "homepage": "https://github.com/jhonatasmatos/mini-order-manager#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
